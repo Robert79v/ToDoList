@@ -1,0 +1,10 @@
+.table tr:hover {
+    background-color: #4f4f4f;
+  }
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+.dragging {
+  opacity: 0.5;
+}
